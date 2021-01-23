@@ -1,0 +1,12 @@
+C:\VsCode\skinet\Core\bin\Debug\net5.0\Core.deps.json
+C:\VsCode\skinet\Core\bin\Debug\net5.0\Core.dll
+C:\VsCode\skinet\Core\bin\Debug\net5.0\ref\Core.dll
+C:\VsCode\skinet\Core\bin\Debug\net5.0\Core.pdb
+C:\VsCode\skinet\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
+C:\VsCode\skinet\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\VsCode\skinet\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\VsCode\skinet\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\VsCode\skinet\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\VsCode\skinet\Core\obj\Debug\net5.0\Core.dll
+C:\VsCode\skinet\Core\obj\Debug\net5.0\ref\Core.dll
+C:\VsCode\skinet\Core\obj\Debug\net5.0\Core.pdb
